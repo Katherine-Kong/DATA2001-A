@@ -1,4 +1,4 @@
-industry_code,industry_name,sa2_code,sa2_name,0_to_50k_businesses,50k_to_200k_businesses,200k_to_2m_businesses,2m_to_5m_businesses,5m_to_10m_businesses,10m_or_more_businesses,total_businesses
+industry_code,industry_name,sa2_code,sa2_name,b_0_50k,b_50k_200k,b_200k_2m,b_2m_5m,b_5m_10m,b_10m_more,total_businesses
 A,"Agriculture, Forestry and Fishing",101021007,Braidwood,136,92,63,4,0,0,296
 A,"Agriculture, Forestry and Fishing",101021008,Karabar,6,3,0,0,0,0,9
 A,"Agriculture, Forestry and Fishing",101021009,Queanbeyan,6,4,3,0,0,3,15
