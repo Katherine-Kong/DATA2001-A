@@ -1,4 +1,4 @@
-sa2_code21,sa2_name,earners,median_age,median_income,mean_income
+sa2_code,sa2_name,earners,median_age,median_income,mean_income
 101021007,Braidwood,2467,51,46640,68904
 101021008,Karabar,5103,42,65564,69672
 101021009,Queanbeyan,7028,39,63528,69174
@@ -75,7 +75,6 @@ sa2_code21,sa2_name,earners,median_age,median_income,mean_income
 103031072,Mudgee,7115,42,54931,70273
 103031073,Mudgee Surrounds - East,1467,51,40359,50418
 103031074,Mudgee Surrounds - West,5858,47,47009,57749
-103031075,Wollangambe - Wollemi,np,np,np,np
 103041076,Blayney,4176,47,54164,62548
 103041077,Orange,10062,42,54340,65669
 103041078,Orange - North,12945,40,61130,72064
@@ -134,12 +133,10 @@ sa2_code21,sa2_name,earners,median_age,median_income,mean_income
 106041129,Scone Surrounds,4445,45,50081,59434
 107011131,Dapto - Avondale,12705,43,52826,60058
 107011132,Horsley - Kembla Grange,6794,40,61445,70629
-107011133,Port Kembla Industrial,np,np,np,np
 107011134,Unanderra - Mount Kembla,8619,44,58310,70056
 107011545,Berkeley - Lake Heights - Cringila,6587,40,49608,55876
 107011546,Port Kembla - Warrawong,4438,41,49533,58142
 107011547,Windang - Primbee,2103,46,51241,62082
-107021135,Illawarra Catchment Reserve,np,np,np,np
 107031136,Albion Park - Macquarie Pass,10859,39,59588,66510
 107031137,Albion Park Rail,3667,41,51814,57661
 107031138,Kiama,5026,51,50118,68884
@@ -166,7 +163,6 @@ sa2_code21,sa2_name,earners,median_age,median_income,mean_income
 108021158,Nambucca Heads,2932,50,39243,45835
 108021159,Nambucca Heads Surrounds,4242,49,37996,45394
 108021160,South West Rocks,2696,52,40170,49985
-108031161,Lord Howe Island,np,np,np,np
 108041162,Laurieton - Bonny Hills,9396,52,40848,49424
 108041164,Port Macquarie - West,10634,45,46580,55701
 108041165,Port Macquarie Surrounds,3142,50,40045,46972
@@ -372,7 +368,6 @@ sa2_code21,sa2_name,earners,median_age,median_income,mean_income
 118011339,Bondi - Tamarama - Bronte,13181,38,76417,140882
 118011340,Bondi Beach - North Bondi,14656,36,75695,114826
 118011341,Bondi Junction - Waverly,11926,39,72603,115632
-118011342,Centennial Park,np,np,np,np
 118011344,Dover Heights,7274,45,72627,143163
 118011345,Paddington - Moore Park,10405,40,84655,156325
 118011346,Rose Bay - Vaucluse - Watsons Bay,8062,49,80031,202212
@@ -506,7 +501,6 @@ sa2_code21,sa2_name,earners,median_age,median_income,mean_income
 123021436,Bradbury - Wedderburn,9934,39,54520,58455
 123021437,Campbelltown - Woodbine,11533,38,54464,60247
 123021438,Claymore - Eagle Vale - Raby,10948,40,56314,60418
-123021439,Holsworthy Military Area,np,np,np,np
 123021441,Leumeah - Minto Heights,8916,41,53684,58244
 123021443,Minto - St Andrews,11282,39,53291,57917
 123021444,Rosemeadow - Glen Alpine,10923,41,55000,61407
@@ -525,7 +519,6 @@ sa2_code21,sa2_name,earners,median_age,median_income,mean_income
 124011453,Lawson - Hazelbrook - Linden,6658,46,55097,63548
 124011454,Springwood - Winmalee,12916,46,61228,71292
 124011455,Wentworth Falls,3538,51,49058,67227
-124021456,Blue Mountains - South,np,np,np,np
 124031457,Cambridge Park,8717,39,58332,62719
 124031459,Emu Plains - Leonay,8169,43,63503,73497
 124031460,Glenmore Park - Regentville,13027,41,65666,76073
